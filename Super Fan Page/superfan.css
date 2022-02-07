@@ -1,0 +1,100 @@
+@charset "UTF-8";
+h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-shadow: 0px 0px #9896BC;
+	color: #7570D7;
+	font-size: 50px;
+}
+li   {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	/* [disabled]background-color: #000000; */
+	border-radius: 25px;
+	/* [disabled]text-decoration: overline; */
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	list-style-type: decimal;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+ul li {
+	list-style-type: circle;
+}
+body ol {
+}
+body ol {
+}
+p {
+	border: 5px solid #595959;
+	border-radius: 20px;
+}
+body uo li {
+}
+body {
+	background-color: #D5DD94;
+}
+p {
+	background-color: #FFFFFF;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+table {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	border-radius: 20px;
+	border: 5px solid #545454;
+	background-color: #FFFFFF;
+}
+p {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	line-height: 20px;
+	word-spacing: 0px;
+	font-size: 20px;
+}
+img {
+	border-radius: 20px;
+}
+ol {
+	background-color: #FFFFFF;
+	border: 5px solid #595757;
+	border-radius: 20px;
+	width: 500px;
+	height: 500px;
+	/* [disabled]min-width: 20px; */
+	white-space: normal;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	text-decoration: none;
+	list-style-type: decimal;
+}
+ul {
+	border: 5px solid #6D6A6A;
+	border-radius: 20px;
+	background-color: #FFFFFF;
+	/* [disabled]list-style-type: decimal; */
+	/* [disabled]word-spacing: 5px; */
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+ol li {
+}
